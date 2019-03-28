@@ -1,0 +1,1 @@
+  extra_configs = {"fs.azure.sas.source.adbworkshops.blob.core.windows.net": "?sv=2017-07-29&ss=bfqt&srt=sco&sp=rl&se=2025-08-01T09:42:35Z&st=2018-02-19T02:42:35Z&spr=https&sig=wjB6JWOBwLsxNv9udmaMq6S3FbzfS2YhBIiHf7nW%2F3M%3D"})
